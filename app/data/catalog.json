@@ -1,0 +1,18 @@
+{
+  "categories": [
+    {
+      "title": "Bebidas",
+      "items": [
+        { "id": "prd_cafe", "title": "Café Americano", "description": "250 ml" },
+        { "id": "prd_tea", "title": "Té Negro", "description": "250 ml" }
+      ]
+    },
+    {
+      "title": "Snacks",
+      "items": [
+        { "id": "prd_cookie", "title": "Galleta", "description": "Chocolate" },
+        { "id": "prd_brownie", "title": "Brownie", "description": "Nuez" }
+      ]
+    }
+  ]
+}
