@@ -1,0 +1,10 @@
+{
+  "categories": [
+    {
+      "title": "Bebidas",
+      "items": [
+        { "id": "prd_cafe", "title": "Café", "description": "250ml" }
+      ]
+    }
+  ]
+}
